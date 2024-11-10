@@ -28,7 +28,7 @@ class PhotoAlbum:
             result += f'{"-" * 11}\n'
 
         return result.strip()
-
+#from judge 
 import unittest
 
 
